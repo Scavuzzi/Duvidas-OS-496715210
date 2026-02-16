@@ -1,0 +1,143 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<kml xmlns="http://www.opengis.net/kml/2.2">
+  <Document>
+    <Placemark>
+      <name>Poste 1</name>
+      <Style>
+        <IconStyle>
+          <Icon>
+            <href>http://maps.google.com/mapfiles/kml/shapes/target.png</href>
+          </Icon>
+          <scale>1.5</scale>
+        </IconStyle>
+      </Style>
+      <ExtendedData/>
+      <Point>
+        <altitudeMode>clampToGround</altitudeMode>
+        <coordinates>-56.21959866,-21.28898006,220.081298828125</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>Ponto de Entrega 1 (Poste 1)</name>
+      <Style>
+        <IconStyle>
+          <Icon>
+            <href>http://maps.google.com/mapfiles/kml/shapes/placemark_circle.png</href>
+          </Icon>
+          <scale>1.5</scale>
+        </IconStyle>
+      </Style>
+      <ExtendedData/>
+      <Point>
+        <altitudeMode>clampToGround</altitudeMode>
+        <coordinates>-56.219518714551874,-21.2889587774144,0.0</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>Poste 3</name>
+      <Style>
+        <IconStyle>
+          <Icon>
+            <href>http://maps.google.com/mapfiles/kml/shapes/target.png</href>
+          </Icon>
+          <scale>1.5</scale>
+        </IconStyle>
+      </Style>
+      <ExtendedData/>
+      <Point>
+        <altitudeMode>clampToGround</altitudeMode>
+        <coordinates>-56.218920611161934,-21.288733227329264,0.0</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>Poste 4</name>
+      <Style>
+        <IconStyle>
+          <Icon>
+            <href>http://maps.google.com/mapfiles/kml/shapes/target.png</href>
+          </Icon>
+          <scale>1.5</scale>
+        </IconStyle>
+      </Style>
+      <ExtendedData/>
+      <Point>
+        <altitudeMode>clampToGround</altitudeMode>
+        <coordinates>-56.21881453,-21.28923549,219.2801513671875</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>Poste 5</name>
+      <Style>
+        <IconStyle>
+          <Icon>
+            <href>http://maps.google.com/mapfiles/kml/shapes/target.png</href>
+          </Icon>
+          <scale>1.5</scale>
+        </IconStyle>
+      </Style>
+      <ExtendedData/>
+      <Point>
+        <altitudeMode>clampToGround</altitudeMode>
+        <coordinates>-56.21866838,-21.29001044,222.28253173828125</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>Linha 1 (Poste 1)</name>
+      <ExtendedData/>
+      <LineString>
+        <extrude>1</extrude>
+        <tessellate>1</tessellate>
+        <altitudeMode>clampToGround</altitudeMode>
+        <coordinates>-56.21959866,-21.28898006,0.0 -56.219518714551874,-21.2889587774144,0.0</coordinates>
+      </LineString>
+    </Placemark>
+    <Placemark>
+      <name>Trecho MT 1</name>
+      <Style>
+        <LineStyle>
+          <color>ff0000ff</color>
+          <width>3.0</width>
+        </LineStyle>
+      </Style>
+      <ExtendedData/>
+      <LineString>
+        <extrude>1</extrude>
+        <tessellate>1</tessellate>
+        <altitudeMode>clampToGround</altitudeMode>
+        <coordinates>-56.21959866,-21.28898006,0.0 -56.218920611161934,-21.288733227329264,0.0</coordinates>
+      </LineString>
+    </Placemark>
+    <Placemark>
+      <name>Trecho MT 2</name>
+      <Style>
+        <LineStyle>
+          <color>ff0000ff</color>
+          <width>3.0</width>
+        </LineStyle>
+      </Style>
+      <ExtendedData/>
+      <LineString>
+        <extrude>1</extrude>
+        <tessellate>1</tessellate>
+        <altitudeMode>clampToGround</altitudeMode>
+        <coordinates>-56.218920611161934,-21.288733227329264,0.0 -56.21881453,-21.28923549,0.0</coordinates>
+      </LineString>
+    </Placemark>
+    <Placemark>
+      <name>Trecho MT 3</name>
+      <Style>
+        <LineStyle>
+          <color>ff0000ff</color>
+          <width>3.0</width>
+        </LineStyle>
+      </Style>
+      <ExtendedData/>
+      <LineString>
+        <extrude>1</extrude>
+        <tessellate>1</tessellate>
+        <altitudeMode>clampToGround</altitudeMode>
+        <coordinates>-56.21881453,-21.28923549,0.0 -56.21866838,-21.29001044,0.0</coordinates>
+      </LineString>
+    </Placemark>
+  </Document>
+</kml>
